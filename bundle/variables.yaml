@@ -1,0 +1,4 @@
+variables:
+- team: cloudbees-labs
+- admin-user: dmitar-mirkovic-nbs-admin
+- manager-user: dmitar-mirkovic-nbs
